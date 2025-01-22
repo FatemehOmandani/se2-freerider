@@ -1,1 +1,2 @@
-select * from CUSTOMER;
+select * from RESERVATION;
+
